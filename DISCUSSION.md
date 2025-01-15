@@ -2,7 +2,7 @@
 
 ---
 
-# 3. `DISCUSSION.md` (Answers to Discussion Questions)
+# 3. `DISCUSSION.md`
 
 
 ```markdown
