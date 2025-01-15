@@ -4,8 +4,6 @@
 
 # 3. `DISCUSSION.md` (Answers to Discussion Questions)
 
-<details>
-<summary>Click to expand</summary>
 
 ```markdown
 # Discussion: Step 3
