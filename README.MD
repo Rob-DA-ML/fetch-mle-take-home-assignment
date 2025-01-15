@@ -13,10 +13,10 @@ This repository demonstrates:
 2.  **Install dependencies**
    ```bash 
    pip install -r requirements.txt
-3. Explore the notebooks:
+3. **Explore** the notebooks:
    notebooks/sentence_transformer_demo.ipynb
    notebooks/multitask_demo.ipynb
-4. Run inference scripts
+4. **Run** inference scripts
    ```bash
    python src/inference.py
    python src/inference_multitask.py
