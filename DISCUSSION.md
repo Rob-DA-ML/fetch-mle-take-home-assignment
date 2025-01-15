@@ -56,5 +56,3 @@ Below are the answers to the Step 3 discussion questions.
    - Generate synthetic data, paraphrases, or other augmented samples for Task B to increase coverage.
 
 ---
-
-**End of Discussion**
