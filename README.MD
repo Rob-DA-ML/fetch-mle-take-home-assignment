@@ -10,7 +10,8 @@ This repository demonstrates:
 1. **Clone** the repository:
    ```bash
    git clone fetch-mle-take-home-assignment
-2. ```bash 
+2.  **Install dependencies**
+   ```bash 
    pip install -r requirements.txt
 3. Explore the notebooks:
    notebooks/sentence_transformer_demo.ipynb
