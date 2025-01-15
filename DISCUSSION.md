@@ -1,14 +1,6 @@
-</details>
-
----
-
-# 3. `DISCUSSION.md`
-
-
-```markdown
 # Discussion: Step 3
 
-Below are the consolidated answers to the Step 3 discussion questions.
+Below are the answers to the Step 3 discussion questions.
 
 ---
 
