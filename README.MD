@@ -10,13 +10,14 @@ This repository demonstrates:
 1. **Clone** the repository:
    ```bash
    git clone fetch-mle-take-home-assignment
-2.  **Install dependencies**
-   ```bash 
-   pip install -r requirements.txt
-3. **Explore** the notebooks:
-   notebooks/sentence_transformer_demo.ipynb
-   notebooks/multitask_demo.ipynb
-4. **Run** inference scripts
-   ```bash
-   python src/inference.py
-   python src/inference_multitask.py
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Explore the notebooks:
+notebooks/sentence_transformer_demo.ipynb
+notebooks/multitask_demo.ipynb
+
+4. Run inference scripts:
+python src/inference.py
+python src/inference_multitask.py
